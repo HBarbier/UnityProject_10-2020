@@ -950,10 +950,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae12e2f09e52e3f45b924f822541413a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 8
-  jumpForce: 15
+  moveSpeed: 10
+  jumpForce: 10
   gravityScale: 5
   controller: {fileID: 0}
+  jump2: 0
+  jumpTime: 0.23
 --- !u!1 &1502172306
 GameObject:
   m_ObjectHideFlags: 0
